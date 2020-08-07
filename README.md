@@ -2,9 +2,7 @@
 
 ## Summary
 
-Dette var en oppgave jeg gjennomførte for å komme videre til intervju hos NTB.
-
-Dette er en webside som benytter react, der siden presenterer en artikkel med klikkbare bilder som åpner en popup komponent som viser en visuell graf, disse grafene kan bli musset over for å vise detaljer angående nummrende. Merk at jeg begynnte å lage prosjektet 21. April slikt at dataene matcher den datoen.
+Dette er en webside som benytter react, der siden presenterer en artikkel med klikkbare bilder som åpner en popup komponent som viser en visuell graf, disse grafene kan bli musset over for å vise detaljer angående nummrende.
 
 Grunnen til at jeg valgte en popup som viser data, var for å vekke leseren sin interesse med en thumbnail. Jeg prøver å sette en seriøs tone på grunn av tema av artikkelen.
 
